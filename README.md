@@ -29,6 +29,7 @@ The project follows a normalized relational design consisting of:
 
 Relationships were validated using Power BI's Model View.
 
+
 ![Entity Relational Diagram](ERD.png)
 
 ---
